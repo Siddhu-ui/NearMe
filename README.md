@@ -25,36 +25,165 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+map.html
+<html>
+    <head>
+        <title>My City</title>
+    </head>
+    <body>
+        <h1 align="center">
+            <font colour="red"><b>chrompet</b></font>
+        </h1>
+        <h3 align="center">
+            <font colour="blue"><b>S SIDDHARTH (24002384)</b></font>
+        </h3>
+        <center>
+            <img src="Screenshot 2024-12-04 142707.png" usemapp="#MyCity" height="610" width="1450">
+       <map name="MyCity">
+        <area shape="rect" coords="20,300,50,400" href="home.html" title="My Home Town">
+        <area shape="circle" coords="500,400,90" href="temple.html" title="tiruneermalai">
+        <area shape="rect" coords="350,270,200" href="store.html" title="Saravana store">
+        <area shape="circle" coords="168,100,20" href="lake.html" title="sembakkam">
+        <area shape="rect" coords="240,190,90" href="railway.html" title="tambaram sanitorium">
+       </map>
+        </center>
+    </body>
+</html>
+
+temple.html
 
 <html>
     <head>
-        <title>My Place</title>
+        <title>My Home Town</title>
     </head>
-    <body>
-    <h1 align="center">
-        <font color="red"><b>Kolathur</b></font>
-    </h1>
-    <h3 align="center">
-        <font color="blue"><b>S SIDDHARTH (24002384)</b></font>
-    </h3>
-    <center>
-        <img src="map.png.png" usemap="#MYCITY" height="610" width="1450">
-        <map name="MyPlace"
-            <area shape="rect" coords="700,250,900,900" href="home.html" title="MY HOME TOWN">
-            <area shape="circle" coords="700,250,900,900" href="gym.html" title="MY GYM">
-            <area shape="circle" coords="700,250,900,900" href="reliance.html" title="MY stor">
-            <area shape="circle" coords="700,250,900,900" href="market.html" title="MY market">
+<body style="background-color: pink;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>tiruneermalai-devotional centre</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+        The Thiruneermalai temple complex consists of two temples,
+         the Ranganatha Temple and the Thiruneermalai Neervanna Perumal Temple.
+          Both are Hindu temples in Thiruneermalai, 
+          a suburb of Chennai, Tamil Nadu, India.
+           There are two temples, one at the top of the hill and other in the foothills.
+</p>
+</body>
+</html>
 
-        </map>
-    </center>
+store.html
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+<body style="background-color: yellow;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>Super saravana stores - Famous store</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+        Saravana Stores, founded in 1969, is a chain of retail stores in India.
+         It is the largest family owned business retail chain in India.
+          It is the first store to introduce Aadi Thallupadi sale concept.
+         Saravana Selvarathinam etc.
+</p>
+</body>
+</html>
 
+lake.html
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+<body style="background-color: aqua;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>seebakkam lake - old lake</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+        Over time, temples Sembakkam, Chennai evolved in design and
+         construction techniques, reflecting advancements in architecture, engineering, and religious beliefs. 
+         Temple worship is rich in symbolism and rituals,
+         each carrying profound spiritual significance.
+</p>
+</body>
+</html>
+
+home.html
+
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+    <body style="background-color: red;">
+        <h1 align="center">
+            <font color="red"><b>chrompet</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="blue"><b>chrompet - My Home Town</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="georgia" size="5">
+                Chromepet is a good locality.
+                It has good connectivity to schools, colleges, hospitals, electric trains, bus stations, hotels, shops, restaurants, banks, and ATMs.
+                Chromepet is a good locality.
+                It has good connectivity to bus stands, schools, colleges, temples, churches, parks, markets, and banks.
+            </font>
+        </p>
     </body>
 </html>
+
+railway.html
+
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+<body style="background-color: blueviolet;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>Railwaystation</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+         Tambaram Sanatorium railway station lies on the Madras Beach—Tambaram suburban section of the Chennai Suburban Railway,
+          which was opened to traffic on 11 May 1931.
+           The tracks were electrified on 15 November 1931.
+         The section was converted to 25 kV AC traction on 15 January 1967.
+</p>
+</body>
+</html>
+
 
 
 ## OUTPUT
 
-![alt text](map.png.png)
+siddhu/mapapp/static/Screenshot 2024-12-04 144137.png
+siddhu/mapapp/static/Screenshot 2024-12-04 143911.png
+siddhu/mapapp/static/Screenshot 2024-12-04 144212.png
+siddhu/mapapp/static/Screenshot 2024-12-04 144324.png
+siddhu/mapapp/static/Screenshot 2024-12-04 144352.png
+siddhu/mapapp/static/Screenshot 2024-12-04 144300.png
+
+
 
 ## RESULT
+
 The program for implementing image maps using HTML is executed successfully.
