@@ -174,8 +174,17 @@ railway.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-12-04 143911-2.png>)
+!![alt text](<Screenshot 2024-12-04 144137.png>)
 
+[alt text](<Screenshot 2024-12-04 143911-2.png>)
+
+![alt text](<Screenshot 2024-12-04 144212.png>)
+
+![alt text](<Screenshot 2024-12-04 144300.png>)
+
+![alt text](<Screenshot 2024-12-04 144324.png>)
+
+![alt text](<Screenshot 2024-12-04 144352.png>)
 ## RESULT
 
 The program for implementing image maps using HTML is executed successfully.
