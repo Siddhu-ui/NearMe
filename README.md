@@ -170,13 +170,11 @@ railway.html
 </p>
 </body>
 </html>
-
+```
 
 
 ## OUTPUT
-
-![alt text](<Screenshot 2024-12-04 143911-1.png>)
-
+![alt text](<Screenshot 2024-12-04 143911-2.png>)
 
 ## RESULT
 
